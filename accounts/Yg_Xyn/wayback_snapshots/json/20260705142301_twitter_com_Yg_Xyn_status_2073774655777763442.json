@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073774642872094720"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073774655777763442",
+    "created_at": "2026-07-05T14:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073774655777763442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZvdmLuSrt",
+          "end": 78,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2073774655777763442/photo/1",
+          "media_key": "3_2073774642872094720",
+          "start": 55,
+          "url": "https://t.co/HZvdmLuSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073774655777763442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你知道你这么说会受到Unk和Lvmao的制裁吗😨😨😨\n反正Unk估计都睡觉了😪别发给她们看🫠明天早上之前删掉 https://t.co/HZvdmLuSrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2073774642872094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeHDOSakAAkOUN.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073774642872094720"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073774655777763442",
+        "created_at": "2026-07-05T14:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073774655777763442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZvdmLuSrt",
+              "end": 78,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2073774655777763442/photo/1",
+              "media_key": "3_2073774642872094720",
+              "start": 55,
+              "url": "https://t.co/HZvdmLuSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073774655777763442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道你这么说会受到Unk和Lvmao的制裁吗😨😨😨\n反正Unk估计都睡觉了😪别发给她们看🫠明天早上之前删掉 https://t.co/HZvdmLuSrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 13,
+          "like_count": 2521,
+          "listed_count": 6,
+          "media_count": 185,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

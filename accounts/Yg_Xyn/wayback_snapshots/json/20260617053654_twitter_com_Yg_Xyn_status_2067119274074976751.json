@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067119261760512000"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2067119274074976751",
+    "created_at": "2026-06-17T05:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067119274074976751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGhboGejTZ",
+          "end": 34,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2067119274074976751/photo/1",
+          "media_key": "3_2067119261760512000",
+          "start": 11,
+          "url": "https://t.co/XGhboGejTZ"
+        },
+        {
+          "display_url": "x.com/Yg_Xyn/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Yg_Xyn/status/2066520924787241054",
+          "start": 35,
+          "url": "https://t.co/vVKHqKUtFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067119274074976751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066520924787241054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候能发货😭😭😭 https://t.co/XGhboGejTZ https://t.co/vVKHqKUtFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_2067119261760512000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_iBDmaYAA15Db.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2066520906047102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3B0K3bIAAV7H5.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066520916339941377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3B0xNbYAE3QaP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067119261760512000"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2067119274074976751",
+        "created_at": "2026-06-17T05:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067119274074976751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGhboGejTZ",
+              "end": 34,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2067119274074976751/photo/1",
+              "media_key": "3_2067119261760512000",
+              "start": 11,
+              "url": "https://t.co/XGhboGejTZ"
+            },
+            {
+              "display_url": "x.com/Yg_Xyn/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Yg_Xyn/status/2066520924787241054",
+              "start": 35,
+              "url": "https://t.co/vVKHqKUtFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067119274074976751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066520924787241054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候能发货😭😭😭 https://t.co/XGhboGejTZ https://t.co/vVKHqKUtFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066520906047102976",
+            "3_2066520916339941377"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066520924787241054",
+        "created_at": "2026-06-15T13:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066520924787241054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEDqjb9owB",
+              "end": 42,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2066520924787241054/photo/1",
+              "media_key": "3_2066520906047102976",
+              "start": 19,
+              "url": "https://t.co/EEDqjb9owB"
+            },
+            {
+              "display_url": "pic.x.com/EEDqjb9owB",
+              "end": 42,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2066520924787241054/photo/1",
+              "media_key": "3_2066520916339941377",
+              "start": 19,
+              "url": "https://t.co/EEDqjb9owB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520924787241054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5572,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃定制Unk头像贴纸贴在茶兀上🤤 https://t.co/EEDqjb9owB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 8,
+          "like_count": 2203,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

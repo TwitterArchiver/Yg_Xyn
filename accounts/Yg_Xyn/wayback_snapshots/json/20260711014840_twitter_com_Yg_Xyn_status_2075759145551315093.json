@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2075759145551315093",
+    "created_at": "2026-07-11T01:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075759145551315093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2075631134256308692",
+          "start": 16,
+          "url": "https://t.co/YY919r0Ywj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075759145551315093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075631134256308692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像拿到水溶C100的Unk https://t.co/YY919r0Ywj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2857,
+        "media_key": "3_2075558460650037249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3dbFWaIAEM5iD.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2075759145551315093",
+        "created_at": "2026-07-11T01:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075759145551315093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2075631134256308692",
+              "start": 16,
+              "url": "https://t.co/YY919r0Ywj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075759145551315093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075631134256308692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像拿到水溶C100的Unk https://t.co/YY919r0Ywj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075558460650037249"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2075631134256308692",
+        "created_at": "2026-07-10T17:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075631134256308692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXPQaC5M77",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2075631134256308692/photo/1",
+              "media_key": "3_2075558460650037249",
+              "start": 18,
+              "url": "https://t.co/ZXPQaC5M77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075631134256308692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 348,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仿佛想到了什么表情包，但又想不起来 https://t.co/ZXPQaC5M77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 15,
+          "like_count": 2580,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka\n爱人：@YongQuan\nSRS：2025/11\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "家长党"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "HRT"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "SRS"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "Les"
+              },
+              {
+                "end": 122,
+                "start": 119,
+                "tag": "双相"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "ADHD"
+              },
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9591,
+          "following_count": 2396,
+          "like_count": 33343,
+          "listed_count": 26,
+          "media_count": 1575,
+          "tweet_count": 5834
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

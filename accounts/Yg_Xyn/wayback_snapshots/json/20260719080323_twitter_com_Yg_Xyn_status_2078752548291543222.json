@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078752526355374081",
+        "3_2078752537046654976"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2078752548291543222",
+    "created_at": "2026-07-19T08:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078752548291543222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qMz4guE8oI",
+          "end": 50,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2078752548291543222/photo/1",
+          "media_key": "3_2078752526355374081",
+          "start": 27,
+          "url": "https://t.co/qMz4guE8oI"
+        },
+        {
+          "display_url": "pic.x.com/qMz4guE8oI",
+          "end": 50,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2078752548291543222/photo/1",
+          "media_key": "3_2078752537046654976",
+          "start": 27,
+          "url": "https://t.co/qMz4guE8oI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078752548291543222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过去了就过去了吧，我也认为我帮发的申诉恢复几率很小😔 https://t.co/qMz4guE8oI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2078752526355374081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNk2aLVboAETu0N.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078752537046654976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNk2azKboAAx3QL.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078752526355374081",
+            "3_2078752537046654976"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2078752548291543222",
+        "created_at": "2026-07-19T08:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078752548291543222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMz4guE8oI",
+              "end": 50,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2078752548291543222/photo/1",
+              "media_key": "3_2078752526355374081",
+              "start": 27,
+              "url": "https://t.co/qMz4guE8oI"
+            },
+            {
+              "display_url": "pic.x.com/qMz4guE8oI",
+              "end": 50,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2078752548291543222/photo/1",
+              "media_key": "3_2078752537046654976",
+              "start": 27,
+              "url": "https://t.co/qMz4guE8oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078752548291543222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过去了就过去了吧，我也认为我帮发的申诉恢复几率很小😔 https://t.co/qMz4guE8oI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 21,
+          "like_count": 2651,
+          "listed_count": 8,
+          "media_count": 218,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

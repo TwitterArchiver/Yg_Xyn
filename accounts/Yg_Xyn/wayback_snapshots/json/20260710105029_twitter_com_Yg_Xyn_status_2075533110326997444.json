@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075533080572653568",
+        "3_2075533096108371968"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2075533110326997444",
+    "created_at": "2026-07-10T10:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075533110326997444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oaje6F9yO9",
+          "end": 53,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2075533110326997444/photo/1",
+          "media_key": "3_2075533080572653568",
+          "start": 30,
+          "url": "https://t.co/oaje6F9yO9"
+        },
+        {
+          "display_url": "pic.x.com/oaje6F9yO9",
+          "end": 53,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2075533110326997444/photo/1",
+          "media_key": "3_2075533096108371968",
+          "start": 30,
+          "url": "https://t.co/oaje6F9yO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075533110326997444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来Unk的复3代目出炉了，居然这么有哲学😱还有颜色图片🥵 https://t.co/oaje6F9yO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2075533080572653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3GVxMa8AAmun8.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2075533096108371968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3GWrEbMAA3bVY.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075533080572653568",
+            "3_2075533096108371968"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2075533110326997444",
+        "created_at": "2026-07-10T10:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075533110326997444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaje6F9yO9",
+              "end": 53,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2075533110326997444/photo/1",
+              "media_key": "3_2075533080572653568",
+              "start": 30,
+              "url": "https://t.co/oaje6F9yO9"
+            },
+            {
+              "display_url": "pic.x.com/oaje6F9yO9",
+              "end": 53,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2075533110326997444/photo/1",
+              "media_key": "3_2075533096108371968",
+              "start": 30,
+              "url": "https://t.co/oaje6F9yO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075533110326997444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来Unk的复3代目出炉了，居然这么有哲学😱还有颜色图片🥵 https://t.co/oaje6F9yO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 15,
+          "like_count": 2573,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

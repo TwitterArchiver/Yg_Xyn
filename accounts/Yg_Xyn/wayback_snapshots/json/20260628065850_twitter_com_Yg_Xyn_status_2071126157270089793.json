@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071126134155296768",
+        "3_2071126145974812672"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2071126157270089793",
+    "created_at": "2026-06-28T06:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071126157270089793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGGsAHAecy",
+          "end": 42,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2071126157270089793/photo/1",
+          "media_key": "3_2071126134155296768",
+          "start": 19,
+          "url": "https://t.co/dGGsAHAecy"
+        },
+        {
+          "display_url": "pic.x.com/dGGsAHAecy",
+          "end": 42,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2071126157270089793/photo/1",
+          "media_key": "3_2071126145974812672",
+          "start": 19,
+          "url": "https://t.co/dGGsAHAecy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071126157270089793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的蓝色对号标记它哇的终于没了🥰🥰🥰 https://t.co/dGGsAHAecy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2071126134155296768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4ePudawAAhn3A.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2071126145974812672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4eQafaQAAGOJ3.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071126134155296768",
+            "3_2071126145974812672"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2071126157270089793",
+        "created_at": "2026-06-28T06:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071126157270089793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGGsAHAecy",
+              "end": 42,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2071126157270089793/photo/1",
+              "media_key": "3_2071126134155296768",
+              "start": 19,
+              "url": "https://t.co/dGGsAHAecy"
+            },
+            {
+              "display_url": "pic.x.com/dGGsAHAecy",
+              "end": 42,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2071126157270089793/photo/1",
+              "media_key": "3_2071126145974812672",
+              "start": 19,
+              "url": "https://t.co/dGGsAHAecy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071126157270089793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的蓝色对号标记它哇的终于没了🥰🥰🥰 https://t.co/dGGsAHAecy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 10,
+          "like_count": 2374,
+          "listed_count": 6,
+          "media_count": 167,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": false
+      }
+    ]
+  }
+}

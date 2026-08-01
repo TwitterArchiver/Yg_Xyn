@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082398304424652800",
+        "3_2082398314671259648"
+      ],
+      "media_source_tweet_id": [
+        "2082398324728983852",
+        "2082398324728983852"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2082422787835363639",
+    "created_at": "2026-07-29T11:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082422787835363639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "359348018",
+          "start": 3,
+          "username": "PriseTwinkle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7KD7gHfQc",
+          "end": 53,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+          "media_key": "3_2082398304424652800",
+          "start": 30,
+          "url": "https://t.co/T7KD7gHfQc"
+        },
+        {
+          "display_url": "pic.x.com/T7KD7gHfQc",
+          "end": 53,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+          "media_key": "3_2082398314671259648",
+          "start": 30,
+          "url": "https://t.co/T7KD7gHfQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082422787835363639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082398324728983852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PriseTwinkle: 深度学习雌二醇化学中🧐 https://t.co/T7KD7gHfQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2390,
+        "media_key": "3_2082398304424652800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYqOZAbcAAmOgI.jpg",
+        "width": 1832
+      },
+      {
+        "height": 2427,
+        "media_key": "3_2082398314671259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYqO_LaQAA0uIw.jpg",
+        "width": 1830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398304424652800",
+            "3_2082398314671259648"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2082398324728983852",
+        "created_at": "2026-07-29T09:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:03:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082391606221472182",
+          "2082398324728983852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7KD7gHfQc",
+              "end": 35,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+              "media_key": "3_2082398304424652800",
+              "start": 12,
+              "url": "https://t.co/T7KD7gHfQc"
+            },
+            {
+              "display_url": "pic.x.com/T7KD7gHfQc",
+              "end": 35,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+              "media_key": "3_2082398314671259648",
+              "start": 12,
+              "url": "https://t.co/T7KD7gHfQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398324728983852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "深度学习雌二醇化学中🧐 https://t.co/T7KD7gHfQc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398304424652800",
+            "3_2082398314671259648"
+          ],
+          "media_source_tweet_id": [
+            "2082398324728983852",
+            "2082398324728983852"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2082422787835363639",
+        "created_at": "2026-07-29T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082422787835363639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "359348018",
+              "start": 3,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7KD7gHfQc",
+              "end": 53,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+              "media_key": "3_2082398304424652800",
+              "start": 30,
+              "url": "https://t.co/T7KD7gHfQc"
+            },
+            {
+              "display_url": "pic.x.com/T7KD7gHfQc",
+              "end": 53,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2082398324728983852/photo/1",
+              "media_key": "3_2082398314671259648",
+              "start": 30,
+              "url": "https://t.co/T7KD7gHfQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082422787835363639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082398324728983852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PriseTwinkle: 深度学习雌二醇化学中🧐 https://t.co/T7KD7gHfQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱PriseTwinkle 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 23,
+          "like_count": 2725,
+          "listed_count": 8,
+          "media_count": 235,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8573,
+          "following_count": 10,
+          "like_count": 242,
+          "listed_count": 160,
+          "media_count": 68,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

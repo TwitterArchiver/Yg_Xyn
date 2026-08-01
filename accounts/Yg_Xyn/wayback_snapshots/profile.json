@@ -1,0 +1,29 @@
+{
+  "name": "芸光酱PriseTwinkle 🍥🏳️‍⚧️",
+  "username": "@Yg_Xyn",
+  "bio": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小?  |无证小药娘 | 🍥2026.4.7 |从小想做个女孩子 | 已炸柜 | 继续深柜ing |喜欢折腾电子设备 |分享Hrt日常 |  |喜欢我的话点个关注嘛 😋 求求你啦~ |@prisetwinkle | http://NGL.Link/prisetwinkle",
+  "location": "湖北潜江",
+  "link": "http://telegram.me/prisetwinkle",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 130,
+        "start": 117,
+        "username": "prisetwinkle"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "NGL.Link/prisetwinkle",
+        "end": 155,
+        "expanded_url": "http://NGL.Link/prisetwinkle",
+        "start": 133,
+        "url": "http://t.co/yw95e9HjhX"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg"
+}

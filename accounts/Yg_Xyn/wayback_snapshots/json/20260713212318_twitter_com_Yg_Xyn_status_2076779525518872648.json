@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2076520211390620004",
+    "created_at": "2026-07-13T21:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076779525518872648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613462516163842050",
+          "start": 0,
+          "username": "sayaalauun"
+        },
+        {
+          "end": 25,
+          "id": "1798798722018758656",
+          "start": 12,
+          "username": "dreamlessnia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076779525518872648",
+    "in_reply_to_user_id": "1613462516163842050",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076703024135979237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayaalauun @dreamlessnia color os"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2076520211390620004",
+        "created_at": "2026-07-13T21:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076779525518872648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613462516163842050",
+              "start": 0,
+              "username": "sayaalauun"
+            },
+            {
+              "end": 25,
+              "id": "1798798722018758656",
+              "start": 12,
+              "username": "dreamlessnia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076779525518872648",
+        "in_reply_to_user_id": "1613462516163842050",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076703024135979237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayaalauun @dreamlessnia color os"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613462516163842050",
+        "conversation_id": "2076520211390620004",
+        "created_at": "2026-07-13T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076703024135979237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798798722018758656",
+              "start": 0,
+              "username": "dreamlessnia"
+            },
+            {
+              "end": 21,
+              "id": "1928705633135767600",
+              "start": 14,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076703024135979237",
+        "in_reply_to_user_id": "1798798722018758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076657144708149644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamlessnia @Yg_Xyn 很明显是OxygenOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 18,
+          "like_count": 2606,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-12T09:07:08.000Z",
+        "description": "✨ | NO_PRON | 19y | zh/en/jp | WTFPL | fo-back yes! 🤗\n游走互联网的赛博半凛 想要有人陪的可回收垃圾w\n@Rinkomo233 legacy acc. | #サカナクション fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "サカナクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Rinkomo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dashin_kita",
+                "end": 23,
+                "expanded_url": "http://t.me/dashin_kita",
+                "start": 0,
+                "url": "https://t.co/cqQHRFIGpL"
+              }
+            ]
+          }
+        },
+        "id": "1613462516163842050",
+        "location": "Loading...",
+        "name": "萌田 リン",
+        "pinned_tweet_id": "2076017239338496166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053985971390332929/VtJyMoRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 684,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/cqQHRFIGpL",
+        "username": "sayaalauun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T19:27:04.000Z",
+        "description": "吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱！\n友跨🏳️‍⚧️",
+        "id": "1798798722018758656",
+        "name": "栀栀栀栀栀子花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980459459773128704/QO5yl8qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 617,
+          "like_count": 8184,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "dreamlessnia",
+        "verified": false
+      }
+    ]
+  }
+}

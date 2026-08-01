@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2076120827586916704",
+    "created_at": "2026-07-12T01:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076120827586916704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076120827586916704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就是xyn啊啊啊!这是补佳乐(兴奋)(把药拿出来)(四处展示)我就是药娘(兴奋地把药盒从身后拿出来)(喵喵大叫)(试图走近咬人)(爬行)(扑上去)(蠕动)(在地上打滚)(抓裤脚)(兴奋)我就是药娘啊你们速速崇拜我,命令你们都要跟我贴贴(兴奋)我....我真的就是药娘(双眼放光)(兴奋)(大笑) (在地上打滚)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2076120827586916704",
+        "created_at": "2026-07-12T01:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076120827586916704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076120827586916704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是xyn啊啊啊!这是补佳乐(兴奋)(把药拿出来)(四处展示)我就是药娘(兴奋地把药盒从身后拿出来)(喵喵大叫)(试图走近咬人)(爬行)(扑上去)(蠕动)(在地上打滚)(抓裤脚)(兴奋)我就是药娘啊你们速速崇拜我,命令你们都要跟我贴贴(兴奋)我....我真的就是药娘(双眼放光)(兴奋)(大笑) (在地上打滚)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 17,
+          "like_count": 2588,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

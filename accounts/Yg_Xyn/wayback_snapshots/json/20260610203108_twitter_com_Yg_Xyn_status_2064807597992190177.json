@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2064721273268166840",
+    "created_at": "2026-06-10T20:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064807597992190177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972970846194180096",
+          "start": 0,
+          "username": "xuelingqiansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064807597992190177",
+    "in_reply_to_user_id": "1972970846194180096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064769246853529704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelingqiansha 那确实是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2064721273268166840",
+        "created_at": "2026-06-10T20:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064807597992190177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972970846194180096",
+              "start": 0,
+              "username": "xuelingqiansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064807597992190177",
+        "in_reply_to_user_id": "1972970846194180096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064769246853529704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelingqiansha 那确实是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972970846194180096",
+        "conversation_id": "2064721273268166840",
+        "created_at": "2026-06-10T17:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064769246853529704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064769246853529704",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064721273268166840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 听了也没用,家长只会继续照旧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064198104983969792/gscKhrdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 7,
+          "like_count": 2148,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T10:24:49.000Z",
+        "description": "05.2.20/hrt:24.5.16(已经是大龄药娘哩)/家长管不了党/长的一般/不会伪音(好难)/大学生一枚/学校:新疆 家:辽宁/不打算srs,就这样过一辈子,mtx/180大只(嘻嘻)/抖m,sub/讨厌被骗(超级超级讨厌)/同类互fo,随时欢迎找我玩捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuelingqiansha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuelingqiansha",
+                "start": 0,
+                "url": "https://t.co/SKiotz39DX"
+              }
+            ]
+          }
+        },
+        "id": "1972970846194180096",
+        "location": "就在你的心里呀,笨蛋～",
+        "name": "雪澪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878865501155328/bqTiL-ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 135,
+          "like_count": 616,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/SKiotz39DX",
+        "username": "xuelingqiansha",
+        "verified": true
+      }
+    ]
+  }
+}

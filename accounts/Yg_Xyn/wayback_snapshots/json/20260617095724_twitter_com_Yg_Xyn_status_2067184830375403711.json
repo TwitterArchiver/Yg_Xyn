@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2067184830375403711",
+    "created_at": "2026-06-17T09:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067184830375403711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PRGarn/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/PRGarn/status/2067127697915146583",
+          "start": 5,
+          "url": "https://t.co/WMxcSgdlr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067184830375403711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067127697915146583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？何意味 https://t.co/WMxcSgdlr2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2067184830375403711",
+        "created_at": "2026-06-17T09:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067184830375403711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PRGarn/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/PRGarn/status/2067127697915146583",
+              "start": 5,
+              "url": "https://t.co/WMxcSgdlr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067184830375403711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067127697915146583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？何意味 https://t.co/WMxcSgdlr2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043582506272747520",
+        "conversation_id": "2067119274074976751",
+        "created_at": "2026-06-17T06:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067127697915146583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067127697915146583",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067119274074976751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 我是加恩，立志在每只跨÷的评论区捣乱😂🔥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 8,
+          "like_count": 2202,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T06:50:35.000Z",
+        "description": "反同反跨，新教徒，法西斯党徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35468860614268…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546886061426833",
+                "start": 0,
+                "url": "https://t.co/dg8eIZSaqO"
+              }
+            ]
+          }
+        },
+        "id": "2043582506272747520",
+        "location": "加恩格勒",
+        "name": "✝︎Garn✝︎",
+        "pinned_tweet_id": "2043961753902690452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043582603211517952/3pP3eBkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 3,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/dg8eIZSaqO",
+        "username": "PRGarn",
+        "verified": false
+      }
+    ]
+  }
+}

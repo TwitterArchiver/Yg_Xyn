@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {
+      "title": "《我想考好》"
+    },
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2071882863407181965",
+    "created_at": "2026-06-30T09:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071882863407181965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2071…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2071882281954988032",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2071882281954988032",
+          "url": "https://t.co/SVfbnyRm0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071882863407181965",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SVfbnyRm0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_2071882825360416768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDOc83XIAAispR.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "《我想考好》"
+        },
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2071882863407181965",
+        "created_at": "2026-06-30T09:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071882863407181965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2071…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2071882281954988032",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2071882281954988032",
+              "url": "https://t.co/SVfbnyRm0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071882863407181965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SVfbnyRm0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 11,
+          "like_count": 2414,
+          "listed_count": 6,
+          "media_count": 172,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

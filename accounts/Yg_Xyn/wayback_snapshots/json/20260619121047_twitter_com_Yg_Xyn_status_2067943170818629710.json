@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067943167593230337"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2067943170818629710",
+    "created_at": "2026-06-19T12:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067943170818629710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1792216311730429953",
+          "start": 16,
+          "username": "Yanxiao8888"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 56,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "start": 33,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/Oj91rBcnD8"
+        },
+        {
+          "display_url": "pic.x.com/FLDAPhWEqC",
+          "end": 80,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2067943170818629710/photo/1",
+          "media_key": "3_2067943167593230337",
+          "start": 57,
+          "url": "https://t.co/FLDAPhWEqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067943170818629710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @Yanxiao8888\n\n➡️ https://t.co/Oj91rBcnD8 https://t.co/FLDAPhWEqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2067943167593230337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLPWsAXMAEHegV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067943167593230337"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067943170818629710",
+        "created_at": "2026-06-19T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067943170818629710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1792216311730429953",
+              "start": 16,
+              "username": "Yanxiao8888"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "start": 33,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/Oj91rBcnD8"
+            },
+            {
+              "display_url": "pic.x.com/FLDAPhWEqC",
+              "end": 80,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2067943170818629710/photo/1",
+              "media_key": "3_2067943167593230337",
+              "start": 57,
+              "url": "https://t.co/FLDAPhWEqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067943170818629710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Yanxiao8888\n\n➡️ https://t.co/Oj91rBcnD8 https://t.co/FLDAPhWEqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 7,
+          "like_count": 2247,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T15:30:54.000Z",
+        "description": "EE Student\nSoft soul, curious mind.",
+        "id": "1792216311730429953",
+        "name": "烟晓酱Yanxiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057447037415661568/Hc4Gv9PJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 600,
+          "like_count": 4694,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "Yanxiao8888",
+        "verified": false
+      }
+    ]
+  }
+}

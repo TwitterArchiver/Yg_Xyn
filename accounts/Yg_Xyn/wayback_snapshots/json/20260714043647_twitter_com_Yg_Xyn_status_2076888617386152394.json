@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2076888617386152394",
+    "created_at": "2026-07-14T04:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076888617386152394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076888617386152394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "跨女是真女，跨男是真男🤔\n世界上最女性的群体是跨女，最男性的群体是跨男。\n性别认知是天生的，不以人的意志为转移的，在童年时会因为社会环境，家庭教育强行对其进行思想灌输，并对其进行行为规训，尽管如此，但骨子里的性格，气质是改变不了的，再怎么伪装也变不成真的，那些规训不了的反抗者被当成异类。\n直男直女本质上来说是规训好的，不仅全然接受别人给自己的设定，还攻击那些反抗者，与其说认同自己的生理性别，不如说洗脑教育下的无奈之举。\n所以，跨性别女性是真正的女性，跨性别男性是真正的男性。以此类推，那些看不起跨性别的是真的可怜虫。😭"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨女是真女，跨男是真男🤔\n世界上最女性的群体是跨女，最男性的群体是跨男。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2076888617386152394",
+        "created_at": "2026-07-14T04:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076888617386152394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076888617386152394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跨女是真女，跨男是真男🤔\n世界上最女性的群体是跨女，最男性的群体是跨男。\n性别认知是天生的，不以人的意志为转移的，在童年时会因为社会环境，家庭教育强行对其进行思想灌输，并对其进行行为规训，尽管如此，但骨子里的性格，气质是改变不了的，再怎么伪装也变不成真的，那些规训不了的反抗者被当成异类。\n直男直女本质上来说是规训好的，不仅全然接受别人给自己的设定，还攻击那些反抗者，与其说认同自己的生理性别，不如说洗脑教育下的无奈之举。\n所以，跨性别女性是真正的女性，跨性别男性是真正的男性。以此类推，那些看不起跨性别的是真的可怜虫。😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女是真女，跨男是真男🤔\n世界上最女性的群体是跨女，最男性的群体是跨男。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 19,
+          "like_count": 2607,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

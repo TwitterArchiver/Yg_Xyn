@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069287990682431488"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069288004859072860",
+    "created_at": "2026-06-23T05:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069288004859072860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1ooZH1qEC",
+          "end": 28,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2069288004859072860/photo/1",
+          "media_key": "3_2069287990682431488",
+          "start": 5,
+          "url": "https://t.co/N1ooZH1qEC"
+        },
+        {
+          "display_url": "x.com/Yg_Xyn/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Yg_Xyn/status/2069052636763213851",
+          "start": 29,
+          "url": "https://t.co/k3DblyMlBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069288004859072860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069052636763213851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草😫😫😫 https://t.co/N1ooZH1qEC https://t.co/k3DblyMlBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2069287990682431488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeWdsabsAA3sgE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2565,
+        "media_key": "3_2069052578412085248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbAW5XbwAAQnWm.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069052593440202752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbAXxWaoAAUeiQ.jpg",
+        "width": 861
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069052603678568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbAYXfbsAAZ3KY.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069287990682431488"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069288004859072860",
+        "created_at": "2026-06-23T05:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069288004859072860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1ooZH1qEC",
+              "end": 28,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2069288004859072860/photo/1",
+              "media_key": "3_2069287990682431488",
+              "start": 5,
+              "url": "https://t.co/N1ooZH1qEC"
+            },
+            {
+              "display_url": "x.com/Yg_Xyn/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Yg_Xyn/status/2069052636763213851",
+              "start": 29,
+              "url": "https://t.co/k3DblyMlBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069288004859072860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069052636763213851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草😫😫😫 https://t.co/N1ooZH1qEC https://t.co/k3DblyMlBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069052578412085248",
+            "3_2069052593440202752",
+            "3_2069052603678568448"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069052636763213851",
+        "created_at": "2026-06-22T13:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069052636763213851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EImo2PjsOq",
+              "end": 58,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2069052636763213851/photo/1",
+              "media_key": "3_2069052578412085248",
+              "start": 35,
+              "url": "https://t.co/EImo2PjsOq"
+            },
+            {
+              "display_url": "pic.x.com/EImo2PjsOq",
+              "end": 58,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2069052636763213851/photo/1",
+              "media_key": "3_2069052593440202752",
+              "start": 35,
+              "url": "https://t.co/EImo2PjsOq"
+            },
+            {
+              "display_url": "pic.x.com/EImo2PjsOq",
+              "end": 58,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2069052636763213851/photo/1",
+              "media_key": "3_2069052603678568448",
+              "start": 35,
+              "url": "https://t.co/EImo2PjsOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069052636763213851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2149,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了，我被我另一个同学认成他的女朋友了🫠 还谎称不是我们学校的😰 https://t.co/EImo2PjsOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@prisetwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 9,
+          "like_count": 2296,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

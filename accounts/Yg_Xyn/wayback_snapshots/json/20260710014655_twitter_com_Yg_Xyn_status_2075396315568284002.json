@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075395925841969152"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2075396315568284002",
+    "created_at": "2026-07-10T01:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075396315568284002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ICyNf1HdRd",
+          "end": 32,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2075396315568284002/video/1",
+          "media_key": "13_2075395925841969152",
+          "start": 9,
+          "url": "https://t.co/ICyNf1HdRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075396315568284002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🎉🎉恭喜你们🎉🎉 https://t.co/ICyNf1HdRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65968,
+        "height": 1280,
+        "media_key": "13_2075395925841969152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075395925841969152/img/qP_GWmXJ1gHMoMau.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075395925841969152/vid/avc1/320x568/pN6GT9h4JdN1pTer.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075395925841969152/vid/avc1/480x852/M__QjJ5sFHZyYrPW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075395925841969152/vid/avc1/720x1280/d44E3hMEO9kaNxSx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075395925841969152/pl/9oDK70icIxCAlYlO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075395925841969152"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2075396315568284002",
+        "created_at": "2026-07-10T01:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075396315568284002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICyNf1HdRd",
+              "end": 32,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2075396315568284002/video/1",
+              "media_key": "13_2075395925841969152",
+              "start": 9,
+              "url": "https://t.co/ICyNf1HdRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075396315568284002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🎉恭喜你们🎉🎉 https://t.co/ICyNf1HdRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 14,
+          "like_count": 2573,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

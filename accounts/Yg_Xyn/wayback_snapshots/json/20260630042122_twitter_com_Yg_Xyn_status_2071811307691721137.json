@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2071811307691721137",
+    "created_at": "2026-06-30T04:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071811307691721137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yg_Xyn/status/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Yg_Xyn/status/2071588261974491528",
+          "start": 42,
+          "url": "https://t.co/qozWBRQJBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071811307691721137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071588261974491528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "估分100多，差点90😋后面大题都写出来了，最后一大题一小问没写出来😇整体一般难度 https://t.co/qozWBRQJBV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2071588051487453184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_CW2nacAABXcG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2071811307691721137",
+        "created_at": "2026-06-30T04:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071811307691721137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yg_Xyn/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Yg_Xyn/status/2071588261974491528",
+              "start": 42,
+              "url": "https://t.co/qozWBRQJBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071811307691721137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071588261974491528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估分100多，差点90😋后面大题都写出来了，最后一大题一小问没写出来😇整体一般难度 https://t.co/qozWBRQJBV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071588051487453184"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2071588261974491528",
+        "created_at": "2026-06-29T13:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071588261974491528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KutmeMiqI",
+              "end": 100,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2071588261974491528/photo/1",
+              "media_key": "3_2071588051487453184",
+              "start": 77,
+              "url": "https://t.co/6KutmeMiqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071588261974491528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "数学考试前最后的复习，希望试卷简单，我能考100多🙏🙏🙏 @ RainEngine2024 雨晴 🙏🙏🙏拜一下中考数学考117分的人😜😋祝我数学考的好🙏 https://t.co/6KutmeMiqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 11,
+          "like_count": 2410,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

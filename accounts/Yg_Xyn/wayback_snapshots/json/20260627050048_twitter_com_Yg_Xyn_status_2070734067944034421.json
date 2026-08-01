@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2070725574365196702",
+    "created_at": "2026-06-27T05:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070734067944034421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067083791060082688",
+          "start": 0,
+          "username": "IkVJgfTe7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070734067944034421",
+    "in_reply_to_user_id": "2067083791060082688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070725574365196702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkVJgfTe7N 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2070725574365196702",
+        "created_at": "2026-06-27T05:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070734067944034421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067083791060082688",
+              "start": 0,
+              "username": "IkVJgfTe7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070734067944034421",
+        "in_reply_to_user_id": "2067083791060082688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070725574365196702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkVJgfTe7N 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067083791060082688",
+        "conversation_id": "2070725574365196702",
+        "created_at": "2026-06-27T04:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070725574365196702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070725574365196702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "premium我最近也不打算充了😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669155393757184/tnMhwtH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 9,
+          "like_count": 2351,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 934
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-17T03:16:40.000Z",
+        "description": "这里是Unk4.0🍥\n三代目也没了😭😭😭\n怀念@UnkMtX\n先用个黑白头像24h吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "UnkMtX"
+              }
+            ]
+          }
+        },
+        "id": "2067083791060082688",
+        "name": "Unk4.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070485483919147008/S4OayoUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 88,
+          "like_count": 45,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "IkVJgfTe7N",
+        "verified": false
+      }
+    ]
+  }
+}

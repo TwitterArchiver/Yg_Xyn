@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2078833619708383525",
+    "created_at": "2026-07-19T15:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078859716932116488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058322002893828096",
+          "start": 0,
+          "username": "pylbcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078859716932116488",
+    "in_reply_to_user_id": "2058322002893828096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078833619708383525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pylbcy 😨别被污染了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078833596186677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmAJD_a0AAilEA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2078833619708383525",
+        "created_at": "2026-07-19T15:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078859716932116488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058322002893828096",
+              "start": 0,
+              "username": "pylbcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078859716932116488",
+        "in_reply_to_user_id": "2058322002893828096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078833619708383525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pylbcy 😨别被污染了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078833596186677248"
+          ]
+        },
+        "author_id": "2058322002893828096",
+        "conversation_id": "2078833619708383525",
+        "created_at": "2026-07-19T13:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078833619708383525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpWEWax9Df",
+              "end": 71,
+              "expanded_url": "https://x.com/pylbcy/status/2078833619708383525/photo/1",
+              "media_key": "3_2078833596186677248",
+              "start": 48,
+              "url": "https://t.co/MpWEWax9Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078833619708383525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来亚空间玩了😋，听说亚空间全是温柔的大姐姐😍，这是真的吗🤔，不过我还是更喜欢香香软软的小萝莉😇 https://t.co/MpWEWax9Df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 21,
+          "like_count": 2652,
+          "listed_count": 8,
+          "media_count": 218,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T23:00:40.000Z",
+        "description": "最神经之人",
+        "id": "2058322002893828096",
+        "location": "China jiangxi😋",
+        "name": "彭鱼宴不吃鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078832673209090049/nulOGpmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "pylbcy",
+        "verified": false
+      }
+    ]
+  }
+}

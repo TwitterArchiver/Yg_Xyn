@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2078427686511505535",
+    "created_at": "2026-07-18T16:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078513758385877185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078513758385877185",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078427686511505535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw 🫤好玩的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2078427640835538944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgO7WdbAAApa8Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 921,
+        "media_key": "3_2078427655641378816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgO8NnaMAAUoJC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 921,
+        "media_key": "3_2078427666332696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgO81cawAAMMoW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 921,
+        "media_key": "3_2078427678445813760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgO9ikaQAAOI7v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2078427686511505535",
+        "created_at": "2026-07-18T16:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078513758385877185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078513758385877185",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078427686511505535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 🫤好玩的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078427640835538944",
+            "3_2078427655641378816",
+            "3_2078427666332696576",
+            "3_2078427678445813760"
+          ]
+        },
+        "author_id": "1977200375766958082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2078427686511505535",
+        "created_at": "2026-07-18T10:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078427686511505535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgSIIiN8mV",
+              "end": 66,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2078427686511505535/photo/1",
+              "media_key": "3_2078427640835538944",
+              "start": 43,
+              "url": "https://t.co/RgSIIiN8mV"
+            },
+            {
+              "display_url": "pic.x.com/RgSIIiN8mV",
+              "end": 66,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2078427686511505535/photo/1",
+              "media_key": "3_2078427655641378816",
+              "start": 43,
+              "url": "https://t.co/RgSIIiN8mV"
+            },
+            {
+              "display_url": "pic.x.com/RgSIIiN8mV",
+              "end": 66,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2078427686511505535/photo/1",
+              "media_key": "3_2078427666332696576",
+              "start": 43,
+              "url": "https://t.co/RgSIIiN8mV"
+            },
+            {
+              "display_url": "pic.x.com/RgSIIiN8mV",
+              "end": 66,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2078427686511505535/photo/1",
+              "media_key": "3_2078427678445813760",
+              "start": 43,
+              "url": "https://t.co/RgSIIiN8mV"
+            },
+            {
+              "display_url": "x.com/Yg_Xyn/status/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Yg_Xyn/status/2077929450751316181",
+              "start": 67,
+              "url": "https://t.co/EHHgFjAmlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078427686511505535",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077929450751316181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 啊对对对不恐怖🙃晚上我一个人在房间你喊我玩DDLC给我吓解离了😇😇🤯 https://t.co/RgSIIiN8mV https://t.co/EHHgFjAmlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝑖𝑛𝑘𝒍𝒆 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 21,
+          "like_count": 2645,
+          "listed_count": 8,
+          "media_count": 217,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚15岁天残xyn 初二 155cm/44.5kg  💊&🔪\n同类互fo喵😋灌注沐媛谢谢喵🥺坐标柳州😇\n无人在意の小透明 🍥2026.5.13\n大部分时候脑子正常🧐超级社恐😩\n发现被在乎的小细节会开心一整天🥺\n生产日期：11.06.15 保质期不详\n扩列请加Q3776451683丨tg@muyvan_666",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvanyvandecw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvanyvandecw",
+                "start": 0,
+                "url": "https://t.co/zWQwc9nNML"
+              }
+            ]
+          }
+        },
+        "id": "1977200375766958082",
+        "location": "被窝里",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2078389846343926166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 452,
+          "like_count": 1377,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/zWQwc9nNML",
+        "username": "yvanyvandecw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080237281982779392",
+        "3_2080237299552620544"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080237311640609277",
+    "created_at": "2026-07-23T10:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080237311640609277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970857021588262912",
+          "start": 12,
+          "username": "UnkXyn"
+        },
+        {
+          "end": 27,
+          "id": "2015213345847300096",
+          "start": 20,
+          "username": "XynUnk"
+        },
+        {
+          "end": 35,
+          "id": "2055095022425722880",
+          "start": 28,
+          "username": "UnkMtX"
+        },
+        {
+          "end": 47,
+          "id": "2067083791060082688",
+          "start": 36,
+          "username": "IkVJgfTe7N"
+        },
+        {
+          "end": 57,
+          "id": "2067447448549949440",
+          "start": 48,
+          "username": "Unk_Snow"
+        },
+        {
+          "end": 67,
+          "id": "2060577155218575363",
+          "start": 58,
+          "username": "Unk_Rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GCmNEJB9S",
+          "end": 91,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2080237311640609277/photo/1",
+          "media_key": "3_2080237281982779392",
+          "start": 68,
+          "url": "https://t.co/3GCmNEJB9S"
+        },
+        {
+          "display_url": "pic.x.com/3GCmNEJB9S",
+          "end": 91,
+          "expanded_url": "https://x.com/Yg_Xyn/status/2080237311640609277/photo/1",
+          "media_key": "3_2080237299552620544",
+          "start": 68,
+          "url": "https://t.co/3GCmNEJB9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080237311640609277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次的面基有点特别啊🤔\n@UnkXyn @XynUnk @UnkMtx @IkVJgfTe7N\n@Unk_Snow @Unk_Rain https://t.co/3GCmNEJB9S"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [UnkXyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "UnkXyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "UnkXyn"
+    },
+    {
+      "detail": "User has been suspended: [XynUnk].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "XynUnk",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "XynUnk"
+    },
+    {
+      "detail": "User has been suspended: [UnkMtX].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "UnkMtX",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "UnkMtX"
+    },
+    {
+      "detail": "User has been suspended: [IkVJgfTe7N].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "IkVJgfTe7N",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "IkVJgfTe7N"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1676,
+        "media_key": "3_2080237281982779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN58yVEbkAALkaE.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2080237299552620544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN58zWhaEAAcnmw.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080237281982779392",
+            "3_2080237299552620544"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080237311640609277",
+        "created_at": "2026-07-23T10:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080237311640609277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970857021588262912",
+              "start": 12,
+              "username": "UnkXyn"
+            },
+            {
+              "end": 27,
+              "id": "2015213345847300096",
+              "start": 20,
+              "username": "XynUnk"
+            },
+            {
+              "end": 35,
+              "id": "2055095022425722880",
+              "start": 28,
+              "username": "UnkMtX"
+            },
+            {
+              "end": 47,
+              "id": "2067083791060082688",
+              "start": 36,
+              "username": "IkVJgfTe7N"
+            },
+            {
+              "end": 57,
+              "id": "2067447448549949440",
+              "start": 48,
+              "username": "Unk_Snow"
+            },
+            {
+              "end": 67,
+              "id": "2060577155218575363",
+              "start": 58,
+              "username": "Unk_Rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GCmNEJB9S",
+              "end": 91,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2080237311640609277/photo/1",
+              "media_key": "3_2080237281982779392",
+              "start": 68,
+              "url": "https://t.co/3GCmNEJB9S"
+            },
+            {
+              "display_url": "pic.x.com/3GCmNEJB9S",
+              "end": 91,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2080237311640609277/photo/1",
+              "media_key": "3_2080237299552620544",
+              "start": 68,
+              "url": "https://t.co/3GCmNEJB9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080237311640609277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次的面基有点特别啊🤔\n@UnkXyn @XynUnk @UnkMtx @IkVJgfTe7N\n@Unk_Snow @Unk_Rain https://t.co/3GCmNEJB9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱PriseTwinkle 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 21,
+          "like_count": 2690,
+          "listed_count": 8,
+          "media_count": 225,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 474,
+          "like_count": 326,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T04:22:18.000Z",
+        "description": "五代目ghostban中........😭",
+        "id": "2060577155218575363",
+        "name": "Unk6.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075760708051214336/NPkUbpWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 50,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Unk_Rain",
+        "verified": false
+      }
+    ]
+  }
+}
