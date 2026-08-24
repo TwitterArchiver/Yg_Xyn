@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083875825582231552"
+      ],
+      "media_source_tweet_id": [
+        "2083875921011052557"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083885265073098824",
+    "created_at": "2026-08-02T11:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083885265073098824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "359348018",
+          "start": 3,
+          "username": "PriseTwinkle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m2140IrCmr",
+          "end": 57,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2083875921011052557/video/1",
+          "media_key": "13_2083875825582231552",
+          "start": 34,
+          "url": "https://t.co/m2140IrCmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083885265073098824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083875921011052557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PriseTwinkle: 这难道就是镜子里的结局吗😭😭😭 https://t.co/m2140IrCmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44885,
+        "height": 1080,
+        "media_key": "13_2083875825582231552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083875825582231552/img/vA0Ku-BUTutQjbZ7.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083875825582231552/vid/avc1/1280x720/zxIaDTrKs8dgw-tQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083875825582231552/vid/avc1/640x360/Txg7xS_Lu2xoNxnV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083875825582231552/pl/s1LDY-H5RrUtZ3u3.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083875825582231552/vid/avc1/480x270/TWsBOoxvsitJ2R_q.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083875825582231552/vid/avc1/1920x1080/XhQo-91BJUrDjDbq.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083875825582231552"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2083875921011052557",
+        "created_at": "2026-08-02T11:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083875921011052557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2140IrCmr",
+              "end": 39,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2083875921011052557/video/1",
+              "media_key": "13_2083875825582231552",
+              "start": 16,
+              "url": "https://t.co/m2140IrCmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083875921011052557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这难道就是镜子里的结局吗😭😭😭 https://t.co/m2140IrCmr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083875825582231552"
+          ],
+          "media_source_tweet_id": [
+            "2083875921011052557"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083885265073098824",
+        "created_at": "2026-08-02T11:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083885265073098824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "359348018",
+              "start": 3,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2140IrCmr",
+              "end": 57,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2083875921011052557/video/1",
+              "media_key": "13_2083875825582231552",
+              "start": 34,
+              "url": "https://t.co/m2140IrCmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083885265073098824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083875921011052557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PriseTwinkle: 这难道就是镜子里的结局吗😭😭😭 https://t.co/m2140IrCmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufxakQ"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱PriseTwinkle 🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 23,
+          "like_count": 2743,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/RUElufxakQ",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8577,
+          "following_count": 11,
+          "like_count": 250,
+          "listed_count": 160,
+          "media_count": 69,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}
